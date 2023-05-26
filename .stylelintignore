@@ -1,5 +1,6 @@
 **/*.min.css
 **/dist/
 **/vendor/
+/site/
 /_site/
-/js/coverage/
+
